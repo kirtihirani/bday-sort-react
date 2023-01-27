@@ -1,0 +1,27 @@
+.form{
+    margin:auto;
+    width: 50%;
+    
+}
+
+input[type='radio']{
+    width:25px;
+    height: 25px;
+    align-items: center;
+    
+}
+.labels{
+    font-size: 30px;
+    margin-right: 20px;
+    font-weight: bold;
+}
+button{
+    width: 35%;
+    background-color: brown;
+    height: 50px;
+    font-size: 30px;
+    font-weight: bold;
+    color: azure;
+
+
+}

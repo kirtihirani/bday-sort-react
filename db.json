@@ -1,0 +1,47 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "user": [
+    {
+      "id": 1,
+      "Name": "Kylie",
+      "Dob": "12-11-2000"
+    },
+    {
+      "id": 2,
+      "Name": "Johnny",
+      "Dob": "1-12-2010"
+    },
+    {
+      "id": 3,
+      "Name": "john",
+      "Dob": "03-11-1980"
+    },
+    {
+      "id": 4,
+      "Name": "Tom",
+      "Dob": "08-9-1997"
+    },
+    {
+      "id": 5,
+      "Name": "Ram",
+      "Dob": "07-07-1976"
+    },
+    {
+      "id": 6,
+      "Name": "Kim",
+      "Dob": "1-12-2008"
+    },
+    {
+      "id": 7,
+      "Name": "Hritik",
+      "Dob": "03-11-2004"
+    }
+  ]
+  
+}
